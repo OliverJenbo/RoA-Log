@@ -26,4 +26,9 @@ Idag blev vi introduceret til 3D printerne, samt fik installeret OpenSCAD samt e
 7-9-2023
 Idag stod den på 3D printing, Tobias fremviste hvordan man kunne forme en lille holder til NodeMCU v2'eren. Vi fik til opgave at upscale den selvsamme model, men bare til v3'eren (den større model). Jeg fik næsten gjort det færdigt, men det lykkedes ikke helt.
 
+22-9-2023
+Idag startede vi dagen ud med, at tobias forklarede forskellige muligheder der er for 3d print. Derefter fik vi vores eksamens projekt hvor at vores består af, at vi skal lave en holder til en lille motor.
+Vi startede ud med at tale om hvordan vi ville gribe opgaven an, men det endte med at vi havde misforstået hinanden på hvilken led af motoren vi lavede vores model efter, så det var noget rod med mål i starten.
+Vi fik lavet det grove af den og har tænkt os at fortsætte med noget af det finere på tirsdag.
+
 
