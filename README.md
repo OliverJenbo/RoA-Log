@@ -31,4 +31,16 @@ Idag startede vi dagen ud med, at tobias forklarede forskellige muligheder der e
 Vi startede ud med at tale om hvordan vi ville gribe opgaven an, men det endte med at vi havde misforstået hinanden på hvilken led af motoren vi lavede vores model efter, så det var noget rod med mål i starten.
 Vi fik lavet det grove af den og har tænkt os at fortsætte med noget af det finere på tirsdag.
 
+26-9-2023
+Vi sad på Discord i dag, hvor vi fik extruded vores main body. Vi målte også og fik lavet hængslen i toppen. Målene vi har brugt i dag er grove da de er målt med en tommelstok, og nærmere/mere præcise mål vil blive taget i skolen.
 
+29-9-2023
+Endnu en dag med Discord. Vi fik lavet den nederste halvdel af motoren, hvor vi bestemte os for at en rektangel ville give mest mening, i stedet for 2 "cirkler" (pga. plastik beskyttelsen). Derudover fik vi tilføjet de 2 kroge på siden (ved at lave 2 firkanter - 1 på hver side), som plastik beskyttelsen sidder fast på.
+
+3-10-2023
+Vi sad på Discord igen i dag. Super produktiv dag. Vi fik finpudset den nederste halvdel af vores model, således at den fik afrundede sider frem for at være 100% rektangulære. Dertil fik vi tilføjet motorarmene til figuren. Vi fandt derudover ud af hvordan man kan se en udhulet version af modellen, via "View Wireframe (F11)", hvilket hjælper på mere præcise mål i fremtiden frem for konstante udregninger.
+
+6-10-2023
+Vi tog over på skolen idag for at få rettet på målene, samt diskutere hvordan vi skal få lavet den nedre del, således at boksen har plads til plastikken. Undervejs fandt vi ud af, at det ville give bedst mening at forskyde "main box" så den starter på 0, da det blev noget bøvl at regne de andre dele af motorens positioner ud. Plastikken er dog stadigt ikke lavet, og ville derfor give mening at lave i weekenden, så vi har tid til at lave boksen + noget kode som hører med til motoren.
+
+//edit til 6-10-2023, jeg fik lavet plastik delen hjemmefra, samt tilføjet en lille dut på undersiden af motoren.
