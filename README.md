@@ -40,7 +40,17 @@ Endnu en dag med Discord. Vi fik lavet den nederste halvdel af motoren, hvor vi 
 3-10-2023
 Vi sad på Discord igen i dag. Super produktiv dag. Vi fik finpudset den nederste halvdel af vores model, således at den fik afrundede sider frem for at være 100% rektangulære. Dertil fik vi tilføjet motorarmene til figuren. Vi fandt derudover ud af hvordan man kan se en udhulet version af modellen, via "View Wireframe (F11)", hvilket hjælper på mere præcise mål i fremtiden frem for konstante udregninger.
 
+
 6-10-2023
 Vi tog over på skolen idag for at få rettet på målene, samt diskutere hvordan vi skal få lavet den nedre del, således at boksen har plads til plastikken. Undervejs fandt vi ud af, at det ville give bedst mening at forskyde "main box" så den starter på 0, da det blev noget bøvl at regne de andre dele af motorens positioner ud. Plastikken er dog stadigt ikke lavet, og ville derfor give mening at lave i weekenden, så vi har tid til at lave boksen + noget kode som hører med til motoren.
 
 //edit til 6-10-2023, jeg fik lavet plastik delen hjemmefra, samt tilføjet en lille dut på undersiden af motoren.
+
+10-10-2023
+Vi mødtes på skolen og fik set på funktionaliteten af motorene. Foss var syg idag, så vi satte ham til at lave det sidste af 3d modeleringen imens mig og Alex, så på hvordan man forbandt motorene med NodeMCUen, vi startede med at få sat en motor igang men kunne ikke helt regne ud hvordan vi fik den anden igang sammentidig. Det viste sig at være en lidt "selvsigende" ting, da vi egentlig bare skulle se på driveren ordentlig for at opdage, at der er ENA og ENB på driveren, men vi kun havde forbundet ENA. Da vi fik sat ENB til, så fik vi begge motorer igang og fik dem til at stige og falde i fart.
+
+13-10-2023
+Vi havde en misforståelse af hvorvidt vi arbejdede hjemmefra eller ej, men endte med at aftale at vi lavede på projektet i ferien. Ikke en særlig produktiv dag.
+
+20-10-2023
+Jeg har gået lidt i ferien og tænkt på hvordan vi selv kunne styre farten på motorene og tænker at man kan gøre brug af det kode der kom ud af wifi eksemplet, som vi tidligere hen har arbejdet med, men istedet for at få dioderne til at skiftes til at lyse, så kunne man derigennem styre fart og retning på motorene, jeg har dog ikke fået kodet det i praksis endnu, men det ser jeg på i løbet af ferien.
